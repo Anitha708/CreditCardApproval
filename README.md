@@ -1,46 +1,33 @@
-Credit Card Approval Prediction System
+# 💳 Credit Card Fraud Detection
 
-The Credit Card Approval Prediction System is a machine learning-based application developed to automate the process of evaluating credit card applications. The project analyzes applicant information such as income, employment status, credit history, age, and other financial attributes to predict whether a credit card application should be approved or rejected.
+## Project Overview
 
-The main objective of this project is to reduce manual effort, minimize approval errors, and provide a faster decision-making process for financial institutions. By using historical customer data and machine learning algorithms, the system identifies patterns that influence approval decisions and generates accurate predictions.
+This project uses Machine Learning to detect potentially fraudulent credit card transactions. A trained classification model is integrated with a Streamlit web application to provide an interactive interface for fraud detection.
 
-This project involves data preprocessing, feature engineering, model training, evaluation, and deployment. Missing values and categorical data are handled appropriately to improve model performance. The trained model is integrated into a user-friendly interface, allowing users to enter applicant details and instantly receive a prediction result.
+## Technologies Used
 
+- Python
+- Pandas
+- Scikit-learn
+- Random Forest
+- Joblib
+- Streamlit
 
-Key Features
-ML Project
+## Project Files
 
-Predicts credit card approval status
+- `app.py` – Streamlit application
+- `train_model.py` – Model training code
+- `model.pkl` – Trained machine learning model
+- `creditcard.csv` – Dataset
+- `requirements.txt` – Required Python libraries
 
-Performs data cleaning and preprocessing
+## 🚀 Live Demo
 
-Encodes categorical variables and handles missing values
+👉 [Open Credit Card Fraud Detection App](https://creditcardapproval-npknjursc8b939dwhnewxu.streamlit.app/)
 
-Trains machine learning classification models
+## 📂 GitHub Repository
 
-Evaluates model accuracy and performance metrics
-
-Provides a simple interface for user input and prediction
-
-echnologies Used
-
-
-Python
-
-Pandas – Data manipulation
-
-NumPy – Numerical operations
-
-Scikit-learn – Machine learning algorithms
-
-Matplotlib / Seaborn – Data visualization
-
-Streamlit / Flask (if used) – Web application interface
-
-
-Project Objective
-
-To build an intelligent system that assists financial organizations in making reliable credit card approval decisions based on applicant data, thereby improving efficiency, reducing processing time, and supporting data-driven decision-making.
+👉 [View Source Code](https://github.com/Anitha708/CreditCardApproval)
 
 
 Expected Outcome
