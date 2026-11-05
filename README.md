@@ -79,7 +79,7 @@ The project demonstrates how Machine Learning can be applied to financial transa
 
 ## 👩‍💻 Author
 
-**Namitha Lakshmi Priya**
+**Gude Anitha Devi**
 
 B.Tech – Electronics and Communication Engineering  
 Aspiring AI Engineer | Data Analyst
